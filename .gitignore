@@ -1,0 +1,6 @@
+composer.phar
+vendor
+.elasticbeanstalk/
+Dockerrun.local.json
+release/
+.idea/
