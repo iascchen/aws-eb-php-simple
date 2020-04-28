@@ -1,6 +1,6 @@
 # Php Simple for AWS Elastic Beanstalk
 
-With AWS Elastic Beanstalk version: 
+With AWS Elastic Beanstalk : Single Container Docker environments
 
 ![docker_platform.png](docker_platform.png)
 
