@@ -2,7 +2,7 @@
 
 ## Commands
 
-    docker build -t my-php-simple -f ./Dockerfile .
+    docker build -t my-php-simple .
     
     docker run -d --name my-running-app -p 8000:80 my-php-simple
     
